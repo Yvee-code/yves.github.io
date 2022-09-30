@@ -1,2 +1,2 @@
-# yves.github.io
+# index.github.io
 my personal website
